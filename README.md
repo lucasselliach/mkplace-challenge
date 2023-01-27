@@ -17,11 +17,11 @@
 
 ## Rodando o projeto
 
-> clone
-> npm install
-> npm start
-> acessar localhost
-> porta 8000
+- clone
+- npm install
+- npm start
+- acessar localhost
+- porta 8000
 [localhost](http://localhost:8000/api-docs/)
 
 ---
